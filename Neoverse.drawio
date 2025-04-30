@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="-9VZt_VdOXqcIlC8K9sz">
-    <mxGraphModel>
+    <mxGraphModel dx="789" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ep9YGXIdj1aZ1-SuYxKE-1" value="AlexandriaRepositoryImpl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep9YGXIdj1aZ1-SuYxKE-2" value="&amp;lt;AlexandriaRepository&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep9YGXIdj1aZ1-SuYxKE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="Ep9YGXIdj1aZ1-SuYxKE-3" target="Ep9YGXIdj1aZ1-SuYxKE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep9YGXIdj1aZ1-SuYxKE-3" value="BookContentViewModel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="420" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep9YGXIdj1aZ1-SuYxKE-9" value="KtorClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
